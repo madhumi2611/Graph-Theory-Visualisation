@@ -228,6 +228,7 @@ def vertex_connectivity(G,vertices):
         G_copy=copy.deepcopy(G)
         removed_count=0
         for p in combinations(G_copy.nodes(), i):
+            removed_count=0
             G_copy=copy.deepcopy(G)
             for j in p:
                 G_copy.remove_node(j)
