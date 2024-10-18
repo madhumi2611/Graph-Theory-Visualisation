@@ -318,7 +318,6 @@ if graphical :
             print("Circuit", i + 1,":", circuit)
         
     #For Edge-Connectivity and Vertex-Connectivity and K-Connectivity(Q5)
-    print(list(combinations(G.nodes(),2)))
     print("\nQuestion 5")
     if len(list(nx.connected_components(G))) >1 :
         print("Edge connectivity of the graph is 0")
