@@ -13,7 +13,6 @@ We used the following Python libraries:
 5- copy (for the purpose of making deep copies of mutable data types) <br><br>
 
 Along with text outputs for each question, we have additionally included two graph outputs,<br><br>
-
 1- Graph generated from the given sequence (if it is graphical) <br>
 2- Graph of Minimum Spanning Tree (MST), using Kruskal's algorithm <br>
 <br>
