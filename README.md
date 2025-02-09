@@ -12,7 +12,7 @@ The following Python libraries were used:
 4- matplotlib (for plotting graphs created using networkx) <br>
 5- copy (for the purpose of making deep copies of mutable data types) <br><br>
 
-Along with text outputs for each question, we have additionally included two graph outputs,<br>
+Along with text outputs for each question, two graph outputs are additionally included: <br>
 1- Graph network generated from the given sequence (if it is graphical) <br>
 2- Graph of Minimum Spanning Tree (MST), using Kruskal's algorithm <br>
 <br>
