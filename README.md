@@ -14,5 +14,24 @@ We used the following Python libraries:
 
 Along with text outputs for each question, we have additionally included two graph outputs,<br><br>
 
-1- Graph generated from the given sequence (if it is graphical)
-2- Graph of Minimum Spanning Tree (MST), using Kruskal's algorithm
+1- Graph generated from the given sequence (if it is graphical) <br>
+2- Graph of Minimum Spanning Tree (MST), using Kruskal's algorithm <br>
+<br>
+<b>Problem Statement or Questions for the project:</b>
+<br><br>
+1. Write a program that takes a random (graphic) sequence as input and draws the
+corresponding graph using Havel-Hakimi algorithm. <br><br>
+
+2. The program also tests whether the graph is Euler graph or not. If yes, implement
+Fleury’s algorithm to find an Euler path/circuit for this graph. <br><br>
+
+3. Assign random weights to the edges of this graph. Take a random vertex as input and find
+the single source all destination shortest path from this vertex for this graph
+implementing Dijkstra’s/Bellman Ford’s algorithm. <br><br>
+
+4. Find the minimum spanning tree of this weighted graph implementing Prim’s/Kruskal’s
+algorithm. Find the fundamental cutsets and fundamental circuits of the graph with
+respect to this minimum spanning tree. <br><br>
+
+5. Find the edge connectivity and vertex connectivity of this graph. Find the value of K for
+which the graph is K-connected.
