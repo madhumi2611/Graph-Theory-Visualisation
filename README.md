@@ -3,7 +3,7 @@ Before running the code, make sure that python libraries- networkx and matplotli
 It can be installed using the following cmd prompts: <br>
 <b> 1- pip install networkx </b> <br>
 <b> 2- pip install matplotlib </b> <br><br>
-
+<hr>
 The following Python libraries were used:
 <br><br>
 1- networkx (for constructing graph network) <br>
@@ -11,7 +11,7 @@ The following Python libraries were used:
 3- random (for generating random weights for the edges) <br>
 4- matplotlib (for plotting graphs created using networkx) <br>
 5- copy (for the purpose of making deep copies of mutable data types) <br><br>
-
+<hr>
 Along with text outputs for each question, two graph outputs are additionally included: <br>
 1- Graph network generated from the given sequence (if it is graphical) <br>
 2- Graph of Minimum Spanning Tree (MST), using Kruskal's algorithm <br>
@@ -34,3 +34,4 @@ respect to this minimum spanning tree. <br><br>
 
 5. Find the edge connectivity and vertex connectivity of this graph. Find the value of K for
 which the graph is K-connected.
+<hr>
